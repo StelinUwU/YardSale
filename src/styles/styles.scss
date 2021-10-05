@@ -1,0 +1,26 @@
+//Globals
+@import "./base/global.scss";
+
+//Components
+@import "./components/Header.scss";
+@import "./components/Menu.scss";
+@import "./components/Order.scss";
+@import "./components/OrderItem.scss";
+@import "./components/ProductInfo.scss";
+@import "./components/ProductItem.scss";
+@import "./components/ShoppingCartItem.scss";
+
+//Containers
+@import "./containers/MyOrder.scss";
+@import "./containers/ProductDetail.scss";
+@import "./containers/ProductList.scss";
+
+//Pages
+@import "./pages/Checkout.scss";
+@import "./pages/CreateAccount.scss";
+@import "./pages/Login.scss";
+@import "./pages/MyAccount.scss";
+@import "./pages/NewPassword.scss";
+@import "./pages/Orders.scss";
+@import "./pages/PasswordRecovery.scss";
+@import "./pages/SendEmail.scss";
